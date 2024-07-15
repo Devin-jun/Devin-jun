@@ -11,10 +11,5 @@
 
 - 📮 For any inquiries regarding potential collaborations, please don’t hesitate to reach me via [email](mailto:zhuj21@mails.tsinghua.edu.cn).
 
-### 🛠️ Skills & Tools
 
-- **Languages**: Python, R, Shell
-- **Frameworks**: PyTorch, Scikit-learn
-- **Tools**: Git, Docker, Jupyter, VS Code
-
-## Thank you for visiting my profile!
+Thank you for visiting my profile!
