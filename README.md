@@ -4,4 +4,4 @@
 - 🌱 I’m currently working on integrating deep learning techniques with computational biology to solve complex biological problems.
 - 🔬 My research interests include AI for Science (AI4S) and Large Language Models (LLM).
 - 📮 For any inquiries regarding potential collaborations, please don’t hesitate to reach me via [email](mailto:zhuj21@mails.tsinghua.edu.cn).
-[text](./profile_image.jpg)
+[text](profile_image.jpg)
