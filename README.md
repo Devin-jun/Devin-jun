@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devin Jun</h1>
+<h1 align="center">Hi 👋, I'm Devin Jun[https://devin-jun.github.io/]</h1>
 <h3 align="center">I'm a PhD student @Tsinghua_Uni, focusing on computational biology and deep learning.</h3>
 
 - 🌱 I’m currently working on integrating deep learning with computational biology to solve complex biological problems.
