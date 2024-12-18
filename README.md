@@ -13,4 +13,4 @@
 
 **Single cell and Spatial Omics**
 
-- <code>AAAI2025</code> DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser  Jun Zhu*†, Yifu Li*, Zhenchao Tang*, Cheng Chang†
+- <code>AAAI2025</code> DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser  *Jun Zhu*, Yifu Li, Zhenchao Tang, Cheng Chang
