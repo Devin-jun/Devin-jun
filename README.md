@@ -6,6 +6,6 @@
 - 📮 For any inquiries regarding potential collaborations, please don’t hesitate to reach me via [email](mailto:zhuj21@mails.tsinghua.edu.cn) and https://devin-jun.github.io/.
 
 📎 Homepages
-https://devin-jun.github.io/
+-Personal Pages: https://devin-jun.github.io/
 
 📚 Research Papers
