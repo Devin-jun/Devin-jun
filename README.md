@@ -10,3 +10,5 @@
 - [Personal Page](https://devin-jun.github.io/)
 
 ### 📚 Research Papers
+- **AAAI 2025** DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser  
+  *Jun Zhu, Yifu Li, Zhenchao Tang, Cheng Chang*   
