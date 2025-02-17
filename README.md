@@ -12,6 +12,6 @@
 ### 📑 Selected Research Papers
 
 **Single cell and Spatial Omics**
-
+- Unifying Genetic and Chemical Perturbagen Representation through a Hybrid Deep Learning Framework, Yiming Li, **Jun Zhu**, Linjing Liu, Fang Wang, Min Zeng, Longkai Huang, Fan Yang, Min Li, Jianhua Yao
 - <code>AAAI2025</code> DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  **Jun Zhu**, Yifu Li, Zhenchao Tang, Cheng Chang
 - <code>Under Review</code>Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  **Jun Zhu**, Zeyang Zhang, et al.
