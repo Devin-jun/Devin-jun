@@ -11,8 +11,5 @@
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=kUAtbFkAAAAJ)
 
 ### 📑 Selected Research Papers
-#### Proteomics and protein design
-
-#### Single cell and Spatial Omics
 - <code>AAAI **Oral**</code> DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  ***Jun Zhu**, Yifu Li, Zhenchao Tang, Cheng Chang.<code>2025</code>*
 - <code>Under Review</code>Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  ***Jun Zhu**, Zeyang Zhang, et al.<code>2024</code>*
