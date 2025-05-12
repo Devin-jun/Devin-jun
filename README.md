@@ -8,6 +8,7 @@
 
 ### 📎 Homepages  
 - [Personal Page](https://devin-jun.github.io/)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=kUAtbFkAAAAJ)
 
 ### 📑 Selected Research Papers
 #### Proteomics and protein design
