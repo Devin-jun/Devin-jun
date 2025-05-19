@@ -1,6 +1,6 @@
 # Hello, I'm Devin Jun 👋
 
-### PhD Student at Tsinghua University | Exploring AI for Life Sciences
+### PhD Student at Tsinghua University | Exploring the Complexities of Life Sciences with AI
 
 - 🌱 Currently integrating deep learning with computational biology to address complex biological challenges.
 - 🔬 Passionate about AI for Science (AI4S) and Large Language Models (LLM).
