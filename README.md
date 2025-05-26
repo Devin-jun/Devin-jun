@@ -1,5 +1,4 @@
-# Hello, I'm Devin Jun 👋 
-![Visitors](https://komarev.com/ghpvc/?username=devin-jun&color=green)
+# Hello, I'm Devin Jun 👋  ![Visitors](https://komarev.com/ghpvc/?username=devin-jun&color=green)
 
 ### PhD Student at Tsinghua University | Exploring the Complexities of Life Sciences with AI
 
