@@ -12,4 +12,4 @@
 
 ### 📑 Selected Research Papers
 - <code>AAAI **Oral**</code> DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  **Jun Zhu**, Yifu Li, Zhenchao Tang, Cheng Chang.2025
-- <code>Under Review</code>Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  **Jun Zhu**, Zeyang Zhang, et al.2024
+- <code>Genome Biology</code>Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  **Jun Zhu**, Zeyang Zhang, et al.2024
