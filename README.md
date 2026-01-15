@@ -1,8 +1,6 @@
 # Hello, I'm Jun Zhu 👋  
 ![Visitors](https://komarev.com/ghpvc/?username=devin-jun&color=green)
 ### PhD Student at Tsinghua University | Exploring the Complexities of Life Sciences with AI
-
-- 🌱 Currently integrating deep learning with computational biology to address complex biological challenges.
 - 🔬 Passionate about AI for Science (AI4S) and Large Language Models (LLM).
 - 📮 Feel free to reach out for collaborations or inquiries via [email](mailto:zhuj21@mails.tsinghua.edu.cn).
 
