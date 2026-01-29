@@ -11,6 +11,6 @@
 ### 📑 Selected Research Papers
 #### 1. From Virtual Cells to Cellular Composition Laws
 `Virtual Cell` · `Spatial omics` · `Systems Biology`
-- <code>Under Review</code> Mapping Subcellular Molecular Localization and Organization using Optimal Transport. 2025.11
-- <code>AAAI **Oral**</code> DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  **Jun Zhu**, Yifu Li, Zhenchao Tang, Cheng Chang.2025
-- <code>Genome Biology</code>Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  **Jun Zhu**, Zeyang Zhang, et al.2024
+- Mapping Subcellular Molecular Localization and Organization using Optimal Transport. 2025.11 <code>Under Review</code> 
+- DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  **Jun Zhu**, Yifu Li, Zhenchao Tang, Cheng Chang.2025 <code>AAAI **Oral**</code>
+- Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  **Jun Zhu**, Zeyang Zhang, et al.2024 <code>Genome Biology</code>
