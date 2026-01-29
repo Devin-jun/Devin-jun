@@ -12,5 +12,5 @@
 #### 1. From Virtual Cells to Cellular Composition Laws
 `Virtual Cell` · `Spatial omics` · `Systems Biology`
 - Mapping Subcellular Molecular Localization and Organization using Optimal Transport. 2025.11 <code>Under Review</code> 
-- DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  **Jun Zhu**, Yifu Li, Zhenchao Tang, Cheng Chang.2025 <code>AAAI **Oral**</code>
-- Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  **Jun Zhu**, Zeyang Zhang, et al.2024 <code>Genome Biology</code>
+- DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  **Jun Zhu**, Yifu Li, Zhenchao Tang, Cheng Chang.2025 <code>AAAI **Oral** [(https://ojs.aaai.org/index.php/AAAI/article/view/32110)]</code>
+- Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  **Jun Zhu**, Zeyang Zhang, et al.2024 <code>Genome Biology[(https://link.springer.com/article/10.1186/s13059-025-03832-y)]</code>
