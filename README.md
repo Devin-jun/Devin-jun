@@ -10,7 +10,7 @@
 
 ### 📑 Selected Research Papers
 
-#### `Agent`· `Foundation model` ·`LLM`
+#### `Large Language model` · `Agent` · `Foundation model` 
 
 
 #### `Virtual Cell` · `Spatial omics` · `Graph neural network`
