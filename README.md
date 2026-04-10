@@ -10,10 +10,10 @@
 
 ### 📑 Selected Research Papers
 
-#### `Large Language model` · `Agent` · `Foundation model` 
+#### `Large Language model` / `Agent` / `Foundation model` 
 
 
-#### `Virtual Cell` · `Spatial omics` · `Graph neural network`
+#### `Virtual Cell` / `Spatial omics` / `Graph neural network`
 
 - Mapping Subcellular Molecular Localization and Organization using Optimal Transport. **Jun Zhu<sup>#,\*</sup>**, et al. 2026.01 <code>Revision at Nature Communications</code> 
 - DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  **Jun Zhu<sup>#,\*</sup>**, Yifu Li, Zhenchao Tang, Cheng Chang.2025 <code>AAAI **Oral**</code>[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32110)
