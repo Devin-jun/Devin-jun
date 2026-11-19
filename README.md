@@ -15,7 +15,7 @@
 
 #### `Virtual Cell` / `Spatial omics` / `Graph neural network`
 - Bridging genetic and chemical screens from molecular representation to phenotype modeling. Yimin Li, Min Zeng, **Jun Zhu**  et al. 2026.06 <code>Cell</code>
-- Mapping Subcellular Molecular Localization and Organization using Optimal Transport. **Jun Zhu<sup>#,\*</sup>**, et al. 2026.01 <code>Revision at Nature Communications</code> 
+- Mapping Subcellular Molecular Localization and Organization using Optimal Transport. **Jun Zhu<sup>#,\*</sup>**, et al. 2026.01 <code>Nature Communications</code> 
 - DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser,  **Jun Zhu<sup>#,\*</sup>**, Yifu Li, Zhenchao Tang, Cheng Chang.2025 <code>AAAI **Oral**</code>[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32110)
 - Cell Decoder: Decoding cell identity with multi-scale explainable deep learning,  **Jun Zhu<sup>#,\*</sup>**, Zeyang Zhang, et al.2024 <code>Genome Biology </code>[[Paper]](https://link.springer.com/article/10.1186/s13059-025-03832-y)
 
